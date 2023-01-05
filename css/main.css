@@ -6,7 +6,7 @@ body{
 	background-repeat:repeat-x;
 	width: 700px;
 	margin: 40px auto;
-	/* padding: 40px 80px; */
+	padding: 40px 80px;
 }
 
 /*連結顏色設定*/
@@ -39,4 +39,6 @@ dt{
 	float: left;
 	font-weight:bold;
 }
-
+.text-h-center {
+	text-align: center;
+}
