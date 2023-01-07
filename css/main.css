@@ -5,6 +5,8 @@ body{
 	width: 810px;
 	margin:auto;
 	padding: 5% 5%;
+	overflow-x: hidden;
+	overflow-y: auto;
 }
 
 /*連結顏色設定*/
